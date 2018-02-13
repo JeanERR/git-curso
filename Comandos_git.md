@@ -4,7 +4,7 @@ Agrega archivos a la zona de preparacion(stage)
 HAce el commit del archivo del stage o lo valida
 #Git rm <file>
 Borra un archivo desde Git
-#Git rv <old_file> <new_file>
+#Git mv <old_file> <new_file>
 Renombra un archivo
 #Git commit --amend -m "Nueva descripcion del archivo"
 Renombre el ultimo commit que se realizo
