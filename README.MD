@@ -13,3 +13,7 @@ git config --global  user.email "jean_10_15@outlook.es"
 git config --global core.editor Code
 git config --list
 ```
+#Zonas de Git
+1. Direcctorio de trabajo
+2. Area de preparacion
+3. Direcctorio Git
