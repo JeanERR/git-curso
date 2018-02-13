@@ -20,3 +20,5 @@ vuelve hasta el punto del commit hecho deshaciendo los archivos que se crearon a
 regresa al actual commit 
 #git tag <nombre_etiqueta>
 agrega una etiqueta al ultimo commit que se hizo
+#git tag <nombre_etiqueta> <nombre_hash>
+agrega una etiqueta en el hash seleccionado
