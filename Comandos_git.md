@@ -10,3 +10,5 @@ Renombra un archivo
 Renombre el ultimo commit que se realizo
 #Git status
 Muestra los archivos que se realizo alguna accion
+#Git reset HEAD <file>
+saca el archivo del stage y lo devuelve al directorio
