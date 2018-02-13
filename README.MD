@@ -17,3 +17,6 @@ git config --list
 1. Direcctorio de trabajo
 2. Area de preparacion
 3. Direcctorio Git
+
+#Git -add
+Agrega un archivo a la zona de preparacion(stage)
