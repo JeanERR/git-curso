@@ -18,3 +18,5 @@ Descarta las modificaciones al archivo
 vuelve hasta el punto del commit hecho deshaciendo los archivos que se crearon a partir de ese commit
 #git checkout master
 regresa al actual commit 
+#git tag <nombre_etiqueta>
+agrega una etiqueta al ultimo commit que se hizo
