@@ -1,1 +1,0 @@
-Aqui se agregaran otros comandos para el uso de Git 
