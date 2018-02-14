@@ -1,22 +1,22 @@
-#Curso git#
-#FLUJO DE TRABAJO BASICO EN GIT
+###Curso git
+###FLUJO DE TRABAJO BASICO EN GIT
 Modificas una serie de archivos en tu directorio de trabajo.
 Preparas lso archivos, añadiendolos a tu area de preparacion.
 Confirmas los cambios, lo que toma los archivos tal y como estan en el area de preparacion u almacena una copia instantanea de manera permanente en tu directorio de Git.
 
 flujo basico de Git
 
-#Configurando git
+###Configurando git
 ```
 git config --global  user.name "erick"
 git config --global  user.email "jean_10_15@outlook.es"
 git config --global core.editor Code
 git config --list
 ```
-#Zonas de Git
+###Zonas de Git
 1. Direcctorio de trabajo
 2. Area de preparacion
 3. Direcctorio Git
 
-#Git -add
+###Git -add
 Agrega un archivo a la zona de preparacion(stage)
