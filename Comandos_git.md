@@ -32,3 +32,5 @@ Esta linea fue creada en la rama master
 fusiona la rama con la rama en la que se encuentra
 #git merge rama1
 fusiona la rama universo1 con la rama master (rama en la que estoy )
+#git merge --abort
+cancela la fusion de la rama por si arroja algun error
