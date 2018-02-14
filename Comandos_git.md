@@ -26,3 +26,5 @@ agrega una etiqueta en el hash seleccionado
 crea una rama 
 #git checkout <rama>
 cambia de rama, por lo general la rama principal es el master 
+
+Esta linea fue creada en la rama master
