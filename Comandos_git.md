@@ -28,3 +28,7 @@ crea una rama
 cambia de rama, por lo general la rama principal es el master 
 
 Esta linea fue creada en la rama master
+#git merge <rama>
+fusiona la rama con la rama en la que se encuentra
+#git merge universo3
+fusiona la rama universo3 con la rama master (rama en la que estoy )
