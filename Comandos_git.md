@@ -40,3 +40,4 @@ sino se borrara todo desde que se inicio esa rama
 #git branch --no-merged
 nos muestra que ramas no se han fusionado a la rama master
 -----------------------------------
+Aumentar mas comandos vistos en clase
