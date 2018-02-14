@@ -39,3 +39,4 @@ borra una rama, pero asegurese de que se fusiono con la rama principal
 sino se borrara todo desde que se inicio esa rama
 #git branch --no-merged
 nos muestra que ramas no se han fusionado a la rama master
+-----------------------------------
