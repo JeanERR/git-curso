@@ -34,3 +34,6 @@ fusiona la rama con la rama en la que se encuentra
 fusiona la rama universo1 con la rama master (rama en la que estoy )
 #git merge --abort
 cancela la fusion de la rama por si arroja algun error
+#git branch -d <rama>
+borra una rama, pero asegurese de que se fusiono con la rama principal
+sino se borrara todo desde que se inicio esa rama
