@@ -22,3 +22,7 @@ regresa al actual commit
 agrega una etiqueta al ultimo commit que se hizo
 #git tag <nombre_etiqueta> <nombre_hash>
 agrega una etiqueta en el hash seleccionado
+#git branch <nombre>
+crea una rama 
+#git checkout <rama>
+cambia de rama, por lo general la rama principal es el master 
